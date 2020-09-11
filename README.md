@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Read to help file structure
 
-1.- https://es.reactjs.org/docs/faq-structure.html
+1.- https://es.reactjs.org/docs/faq-structure.html.<br />
 2.- https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76
 
 
