@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Read to help file structure
+
+1.- https://es.reactjs.org/docs/faq-structure.html
+2.- https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76
+
+
 ## Available Scripts
 
 In the project directory, you can run:
