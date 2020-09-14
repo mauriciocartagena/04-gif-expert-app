@@ -2,11 +2,15 @@
 
 exports[`Pruebas de <GifGridItem /> Debe de mostrar <GifGridItem /> correctaménte 1`] = `
 <div
-  className="card animate__animated animate__fadeIn "
+  className="card animate__animated animate__fadeIn"
 >
-  <img />
+  <img
+    alt="Hello World"
+    src="https://img2.rtve.es/a/5486015?w=1600&preview=1579261973819.jpg"
+  />
   <p>
      
+    Hello World
      
   </p>
 </div>

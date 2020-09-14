@@ -16,6 +16,7 @@ export const AddCategory = ( { setCategories } ) => {
 
         //evitamos que se haga el reinicio de la pagina al presionar el submit o "Enter "
         e.preventDefault();
+        console.log('Handle Submit')
 
         if(inputValue.trim().length > 2 ){
 
@@ -26,15 +27,15 @@ export const AddCategory = ( { setCategories } ) => {
     }
 
     return (
-        <>
             <form onSubmit={ handleSubmit } >
+
+                <p> { inputValue }</p>
                 <input 
                     type="text"
                     value={ inputValue }
                     onChange={ (e)=> handleInputChange(e) }
                 />
             </form>
-        </>
     )
 }
 AddCategory.propTypes = {
